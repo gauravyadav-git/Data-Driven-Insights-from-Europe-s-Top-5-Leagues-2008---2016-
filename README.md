@@ -21,23 +21,23 @@ This project analyzes over 25,000 matches and 10,000 players across Europe’s t
 
 ## 🔑 Key Analyses  
 
-### 🏴 Premier League: Manchester United’s Decline  
+### Premier League: Manchester United’s Decline  
 - Compared performance metrics before and after Sir Alex Ferguson’s retirement  
 - **Found** that United’s worst Ferguson-era season outperformed their best post-Ferguson season  
 
-### 🇮🇹 Serie A: Defensive Prowess  
+### Serie A: Defensive Prowess  
 - Analyzed the correlation between **clean sheets** and league winners  
 - **Revealed** whether defensive stability aligned with championship success  
 
-### 🇫🇷 Ligue 1: PSG’s Transformation  
+### Ligue 1: PSG’s Transformation  
 - Measured impact of the **QSI takeover (2011)** on PSG’s performance  
 - **Showed** major improvements in wins, goals scored, and defensive strength post-investment  
 
-### 🇪🇸 La Liga: Predictability of Dominance  
+### La Liga: Predictability of Dominance  
 - Applied entropy (based on betting odds) to measure **predictability** of match outcomes  
 - **Demonstrated** Real Madrid and Barcelona’s dominance through consistently low entropy values  
 
-### 🇩🇪 Bundesliga: Dortmund’s Decline  
+### Bundesliga: Dortmund’s Decline  
 - Compared Bayern Munich and Borussia Dortmund’s points over multiple seasons  
 - **Highlighted** Dortmund’s sharp decline after the 2011/12 peak seasons  
 
