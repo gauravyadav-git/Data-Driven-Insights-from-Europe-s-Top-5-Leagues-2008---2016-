@@ -45,9 +45,9 @@ This project analyzes over 25,000 matches and 10,000 players across Europe’s t
 
 ## 📊 Example Visualizations  
 
-![FC Bayern Munich and FC Borussia Dortmund Performance Over Seasons](Visuals/FC Bayern Munich and FC Borussia Dortmund Performance Over Seasons.png)
+![FC Bayern Munich and FC Borussia Dortmund Performance Over Seasons](Visuals/FC_Bayern_Munich_and_FC_Borussia_Dortmund_Performance_Over_Seasons.png)
 
-![Teams Predictability Across Top 5 European Leagues](Visuals/Teams Predictability Across Top 5 European Leagues.png)
+![Teams Predictability Across Top 5 European Leagues](Visuals/Teams_Predictability_Across_Top_5_European_Leagues.png)
 
 ---
 
