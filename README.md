@@ -44,7 +44,10 @@ This project analyzes over 25,000 matches and 10,000 players across Europe’s t
 ---
 
 ## 📊 Example Visualizations  
-*(Add screenshots here for plots: MU decline, PSG pre/post-QSI, entropy swarm plots, Bundesliga trends, etc.)*  
+
+![FC Bayern Munich and FC Borussia Dortmund Performance Over Seasons](Visuals/FC Bayern Munich and FC Borussia Dortmund Performance Over Seasons)
+
+![Teams Predictability Across Top 5 European Leagues](Visuals/Teams Predictability Across Top 5 European Leagues)
 
 ---
 
